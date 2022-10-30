@@ -1,4 +1,4 @@
-from myAlgoritm import myLoops
+from myAlgorithm import myLoops
 
 
 print("Please, enter count customers:")
